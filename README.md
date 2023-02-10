@@ -1,2 +1,2 @@
 # postman_autotests
-Примеры автотестов на json для Postman
+Примеры автотестов на js для Postman
